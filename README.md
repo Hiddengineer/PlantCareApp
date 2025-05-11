@@ -1,31 +1,29 @@
 # PlantCareApp
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is an app that is a temperary example for a plant care system with a monitoring video and buttons that can be used to control spesific components.
 
-{Provide a description of your app.  Describe how to use the app.}
-
-{Describe your purpose for creating this app.}
+This app was made to create a general lay out for an app that will eventualy be connected to a controlable plant care system.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=i8ZMvRB3dTM&ab_channel=HiddenEngineer)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+The tools that i used to create this app were the kotlin programing language with the file managment of kotlin multiplatform and its libraries. 
+The programing for the android app was done in the android studio ide.
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Philipp Lackner Youtube](https://www.youtube.com/watch?v=dzUc9vrsldM)
+* [Android Developers](https://developer.android.com)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* improve the design
+* connect to the phisical plant care system
+* create live video feed
