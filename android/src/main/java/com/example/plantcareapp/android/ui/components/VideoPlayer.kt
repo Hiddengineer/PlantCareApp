@@ -10,7 +10,12 @@ import androidx.media3.exoplayer.ExoPlayer
 import androidx.media3.ui.PlayerView
 
 @Composable
-fun VideoPlayer(videoUri: String) {
+// Video Player Composable
+fun VideoPlayer(
+    videoUri: String,
+    modifier: Modifier = Modifier
+) {
+    // Get the context
     val context = LocalContext.current
 
     // Initialize ExoPlayer
